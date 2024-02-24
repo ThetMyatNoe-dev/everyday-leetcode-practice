@@ -1,3 +1,3 @@
 # everyday-leetcode-practice
 
-# Happy Coding ! :)
+# Happy Coding 
